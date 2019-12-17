@@ -1,0 +1,10 @@
+packages:
+        openssl:
+                paths:
+                        openssl@1.1.1d: /usr
+                buildable: false
+        libssh:
+                paths:
+                        libssh@4.8.3: /usr
+                        libssh: /usr
+                buildable: false

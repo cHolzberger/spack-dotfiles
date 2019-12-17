@@ -1,0 +1,4 @@
+config:
+        build_stage: 
+        - /mnt/tmp/$user/spack-stage
+        - ~/.spack/stage
